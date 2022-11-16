@@ -2,10 +2,10 @@
 theme: seriph
 class: 'text-center'
 highlighter: shiki
+background: './images/bg.jpg'
 lineNumbers: false
 info: |
-  Presentation slides for developers.
-  Learn more at [Sli.dev](https://sli.dev)
+  this is a template
 drawings:
   enabled: true
 css: unocss
@@ -13,12 +13,11 @@ fonts:
   sans: 'Helvetica Neue,Robot'
 ---
 
-# 晋升
+# template
+
 
 [//]: # (注意：数据背后的分析（ why ），对此输入的策略（what），未来准备怎么做（ how ）)
 
----
-layout: two-cols
 ---
 
 # 关于我
@@ -26,6 +25,7 @@ layout: two-cols
 <div class="fw-1000 op-80">基础信息</div>
 
 <div class="fw-1000 op-80 mt-13">工作背景</div>
+
 
 ---
 
@@ -86,4 +86,3 @@ R——result（结果） 结果导向项目取得的成绩和贡献
 例如：深入了解业务、增强沟通能力、创新能力等等
 
 ---
-
